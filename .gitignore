@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+audio/
+output_text/
+
+.env
+.DS_Store
+.vscode/
+
+models/
